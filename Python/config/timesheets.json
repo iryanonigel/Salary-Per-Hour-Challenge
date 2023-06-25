@@ -1,0 +1,7 @@
+{
+	"csv_folder": "timesheets",
+	"credentials_file": "postgres.json",
+	"table_name": "timesheets",
+	"schema_name": "di",
+	"ddl": "timesheets.sql"
+}
