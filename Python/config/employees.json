@@ -1,7 +1,0 @@
-{
-	"csv_folder": "employees",
-	"credentials_file": "postgres.json",
-	"table_name": "employees",
-	"schema_name": "di",
-	"ddl": "employees.sql"
-}
