@@ -1,7 +1,0 @@
-{
-	"credentials_file": "postgres.json",
-	"table_name": "salary_per_hour",
-	"schema_name": "dm",		
-	"query_file": "salary_per_hour.sql",
-	"method": "overwrite"
-}
