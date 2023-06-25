@@ -10,7 +10,8 @@ Before running the script, ensure you have the following prerequisites installed
 - Postgresql (15+ Recommended)
 - All python modules in requirements.txt
 
-## Getting Started
+## Getting Starte[README.md](https://github.com/iryanonigel/Salary-Per-Hour-Challenge/files/11859254/README.md)
+d
 
 To get started with the script, follow these steps:
 
